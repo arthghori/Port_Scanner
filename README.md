@@ -28,7 +28,15 @@ pip install pyfiglet
 
 ## ▶️ Usage 
 
+Use This Tool:
+
 ```bash
 python3 port_scan.py
 ```
+
+## 📧 Author
+
+**Arth Ghori**  
+🔗 [GitHub Profile](https://github.com/arthghori)  
+📫 Email: (mailto:arthghori128@gmail.com)
 
