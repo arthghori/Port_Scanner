@@ -31,7 +31,7 @@ pip install pyfiglet
 Use This Tool:
 
 ```bash
-python3 port_scan.py
+python3 Port_Scanner.py
 ```
 
 ## 📧 Author
