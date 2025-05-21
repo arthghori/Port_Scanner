@@ -13,9 +13,5 @@ Install the required Python module:
 
 ```bash
 pip install pyfiglet
-
-
-## ▶️ Usage
-
-``` bash
-python3 port_scan.py
+```
+jhbj
