@@ -38,5 +38,5 @@ python3 port_scan.py
 
 **Arth Ghori**  
 🔗 [GitHub Profile](https://github.com/arthghori)  
-📫 Email: (mailto:arthghori128@gmail.com)
+📫 Email: [arthghori128@gmail.com](mailto:arthghori128@gmail.com)
 
