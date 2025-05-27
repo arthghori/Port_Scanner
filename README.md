@@ -1,4 +1,4 @@
-# 🔍 PORT SCANNER (Multithreaded)
+# 🔍 PORT SCANNER TOOL
 
 A fast and efficient multithreaded port scanner built in Python that scans for **open ports**, detects their **associated services**, and prints a clean result. Uses multithreading for high-speed scanning and `pyfiglet` for a stylish ASCII banner.
 
