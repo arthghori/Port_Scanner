@@ -33,6 +33,10 @@ Use This Tool:
 ```bash
 python3 Port_Scanner.py
 ```
+OR Use This If PYTHON3 Command Not Work 
+```bash
+python Port_Scanner.py
+```
 
 ## 📧 Author
 
